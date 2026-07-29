@@ -19,10 +19,9 @@ This repository is under active development. Many features are TODO.
 - [ ] **tessera/filters/color.py:2** - clamp values to valid range after gamma
 - [ ] **tessera/filters/color.py:3** - add per-channel adjustment support
 - [ ] **tessera/filters/color.py:7** - use CLAHE for local contrast
-- [ ] **tessera/filters/color.py:88** - add GPU acceleration
 - [ ] **tessera/tiling/merger.py:2** - blend seams between adjacent tiles
-- [ ] **tessera/tiling/merger.py:20** - support out-of-core merging for huge mosaics
 - [ ] **tessera/tiling/splitter.py:2** - support overlapping tile margins
+- [ ] **tessera/tiling/splitter.py:3** - preserve geotiff metadata per tile
 
 ## 🤝 Contributing
 
